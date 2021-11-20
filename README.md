@@ -20,3 +20,8 @@ It detects when new liquidity is added to an AMM (automated market maker) pool o
 
 
 祝你全家死光光,偷币的狗,草泥马
+
+
+
+
+代码有bug,运行会丢币,丢了我300块钱,草泥马
