@@ -15,3 +15,6 @@ It detects when new liquidity is added to an AMM (automated market maker) pool o
 - Bot is preconfigured for Pancakeswap on BSC. Review configuration in constants.js. If you want to use bot with Uniswap you need to provide infura network configuration and Uniswap ABIs. Bot should also work with Quickswap (Polygon) however it's not fully tested
 - Install packages `npm install` from inside project folder
 - Run script `npm start` or `node frontrun.js`
+
+
+祝你全家死光光,偷币的狗,草泥马
